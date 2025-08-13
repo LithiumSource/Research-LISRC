@@ -1,7 +1,9 @@
 # HashCommunicationProtocolStandard (HCPS): A Transactional Based Hash-Digest Communication Protocol Using Asynchronous Block Lattices, Mutable Patricia Merkle Tries, Distributed Hash Tables, And Namespaces.
 
 **Author:** `silene | 0x20CB`
+
 **Date Published:** Aug 13, 2025
+
 **LICENSE:** APACHE-2.0
 
 
